@@ -1,0 +1,1422 @@
+{
+    "id": "10-1001",
+    "name": "2(E)-Decenoic acid",
+    "CAS": "334-49-6",
+    "structure": "C<sub>10</sub>H<sub>18</sub>O<sub>2</sub>",
+    "smiles": "O=C(O)C=CCCCCCCC",
+    "description": "2(E)-Decenoic acid, also known as 2-trans-Decenoic acid, g is a product in category Monounsaturated FA. Buy online from Larodan Research Grade Lipids",
+    "molecular_weight": "170.25",
+    "url": "https://www.larodan.com/product/2e-decenoic-acid/",
+    "img": null,
+    "pdf_msds": "mailto:info@larodan.se?subject=MSDS for 2(E)-Decenoic acid / 10-1001",
+    "synonyms": [
+        "2-trans-Decenoic acid",
+        " g"
+    ],
+    "packaging": {
+        "100 mg": 100.0
+    },
+    "image_path": "images\\10-1001.png"
+}
+{
+    "id": "10-1004",
+    "name": "4(Z)-Decenoic acid",
+    "CAS": "505-90-8",
+    "structure": "C<sub>10</sub>H<sub>18</sub>O<sub>2</sub>",
+    "smiles": "O=C(O)CCC=CCCCCC",
+    "description": "4(Z)-Decenoic acid, also known as 4-cis-Decenoic acid is a product in category Monounsaturated FA. Buy online from Larodan Research Grade Lipids",
+    "molecular_weight": "170.25",
+    "url": "https://www.larodan.com/product/4z-decenoic-acid/",
+    "img": null,
+    "pdf_msds": "mailto:info@larodan.se?subject=MSDS for 4(Z)-Decenoic acid / 10-1004",
+    "synonyms": [
+        "4-cis-Decenoic acid"
+    ],
+    "packaging": {
+        "25 mg": 120.0
+    },
+    "image_path": "images\\10-1004.png"
+}
+{
+    "id": "10-1009",
+    "name": "9-Decenoic acid",
+    "CAS": "14436-32-9",
+    "structure": "C<sub>10</sub>H<sub>18</sub>O<sub>2</sub>",
+    "smiles": "O=C(O)CCCCCCCC=C",
+    "description": "9-Decenoic acid, also known as Caproleic acid is a product in category Monounsaturated FA. Buy online from Larodan Research Grade Lipids",
+    "molecular_weight": "170.25",
+    "url": "https://www.larodan.com/product/9-decenoic-acid/",
+    "img": "https://www.larodan.com/media/structures/14436329.svg",
+    "pdf_msds": "https://www.larodan.com/media/10-1009_ENG.pdf",
+    "synonyms": [
+        "Caproleic acid"
+    ],
+    "packaging": {
+        "1 g": 99.0
+    },
+    "image_path": "images\\10-1009.png",
+    "UN number": "Not classified as dangerous goods"
+}
+{
+    "id": "10-1101",
+    "name": "10-Undecenoic acid",
+    "CAS": "112-38-9",
+    "structure": "C<sub>11</sub>H<sub>20</sub>O<sub>2</sub>",
+    "smiles": "O=C(O)CCCCCCCCC=C",
+    "description": "10-Undecenoic acid, also known as 10-Hendecenoic acid, \u03c9-Hendecenoic acid, NSC 2013, Undecylenic acid, \u03c9-Undecenoic acid, 10-Undecylenic acid is a product in category Monounsaturated FA. Buy online from Larodan Research Grade Lipids",
+    "molecular_weight": "184.28",
+    "url": "https://www.larodan.com/product/10-undecenoic-acid/",
+    "img": "https://www.larodan.com/media/structures/112389.svg",
+    "pdf_msds": "https://www.larodan.com/media/10-1101_ENG.pdf",
+    "synonyms": [
+        "10-Hendecenoic acid",
+        " \u03c9-Hendecenoic acid",
+        " NSC 2013",
+        " Undecylenic acid",
+        " \u03c9-Undecenoic acid",
+        " 10-Undecylenic acid"
+    ],
+    "packaging": {
+        "5 x 100 mg": 105.0,
+        "100 mg": 30.0
+    },
+    "image_path": "images\\10-1101.png",
+    "UN number": "Not classified as dangerous goods"
+}
+{
+    "id": "10-1201",
+    "name": "11-Dodecenoic acid",
+    "CAS": "65423-25-8",
+    "structure": "C<sub>12</sub>H<sub>22</sub>O<sub>2</sub>",
+    "smiles": "O=C(O)CCCCCCCCCC=C",
+    "description": "11-Dodecenoic acid, also known as C12:1\u03c911 is a product in category Monounsaturated FA. Buy online from Larodan Research Grade Lipids",
+    "molecular_weight": "198.3",
+    "url": "https://www.larodan.com/product/11-dodecenoic-acid/",
+    "img": "https://www.larodan.com/media/structures/65423258.svg",
+    "pdf_msds": "https://www.larodan.com/media/10-1201_ENG.pdf",
+    "synonyms": [
+        "C12:1\u03c911"
+    ],
+    "packaging": {
+        "5 x 100 mg": null,
+        "100 mg": 71.0
+    },
+    "image_path": "images\\10-1201.png",
+    "UN number": "Not classified as dangerous goods"
+}
+{
+    "id": "10-1301",
+    "name": "12-Tridecenoic acid",
+    "CAS": "6006-06-0",
+    "structure": "C<sub>13</sub>H<sub>24</sub>O<sub>2</sub>",
+    "smiles": "O=C(O)CCCCCCCCCCC=C",
+    "description": "12-Tridecenoic acid, also known as (10-Undecenyl)acetic acid, \u03c9-Tridecenoic acid is a product in category Monounsaturated FA. Buy online from Larodan Research Grade Lipids",
+    "molecular_weight": "212.33",
+    "url": "https://www.larodan.com/product/12-tridecenoic-acid/",
+    "img": "https://www.larodan.com/media/structures/6006060.svg",
+    "pdf_msds": "https://www.larodan.com/media/10-1301_ENG.pdf",
+    "synonyms": [
+        "(10-Undecenyl)acetic acid",
+        " \u03c9-Tridecenoic acid"
+    ],
+    "packaging": {
+        "5 x 100 mg": 196.0,
+        "100 mg": 85.0
+    },
+    "image_path": "images\\10-1301.png",
+    "UN number": "Not classified as dangerous goods"
+}
+{
+    "id": "10-1401",
+    "name": "9(Z)-Tetradecanoic acid",
+    "CAS": "544-64-9",
+    "structure": "C<sub>14</sub>H<sub>26</sub>O<sub>2</sub>",
+    "smiles": "O=C(O)CCCCCCCC=CCCCC",
+    "description": "9(Z)-Tetradecanoic acid, also known as Myristoleic acid, 9-Tetradecenoic acid, (Z)-, Myristolenic acid, Oleomyristic acid, (9Z)-9-Tetradecenoic acid, 9(Z)-Tetradecenoic acid, cis-9-Tetradecenoic acid, cis-\u03949-Tetradecenoic acid, (9Z)-Tetradeca-9-enoic acid, (Z)-9-Tetradecenoic acid, 9-cis-Tetradecenoic acid is a product in category Monounsaturated FA. Buy online from Larodan Research Grade Lipids",
+    "molecular_weight": "226.36",
+    "url": "https://www.larodan.com/product/9z-tetradecanoic-acid/",
+    "img": "https://www.larodan.com/media/structures/544649.svg",
+    "pdf_msds": "https://www.larodan.com/media/10-1401_ENG.pdf",
+    "synonyms": [
+        "Myristoleic acid",
+        " 9-Tetradecenoic acid",
+        " (Z)-",
+        " Myristolenic acid",
+        " Oleomyristic acid",
+        " (9Z)-9-Tetradecenoic acid<input class=\"synonyms-expand-checkbox\" id=\"synonyms-expand-checkbox\" type=\"checkbox\"/><label class=\"synonyms-expand-label\" for=\"synonyms-expand-checkbox\"> [...]</label>"
+    ],
+    "packaging": {
+        "5 x 100 mg": 437.0,
+        "100 mg": 143.0
+    },
+    "image_path": "images\\10-1401.png",
+    "UN number": "Not classified as dangerous goods"
+}
+{
+    "id": "10-1402",
+    "name": "9(E)-Tetradecanoic acid",
+    "CAS": "50286-30-1",
+    "structure": "C<sub>14</sub>H<sub>26</sub>O<sub>2</sub>",
+    "smiles": "O=C(O)CCCCCCCC=CCCCC",
+    "description": "9(E)-Tetradecanoic acid, also known as E-9-Tetradecenoic acid, Myristelaidic acid, trans-9-Tetradecenoic acid, 9-Tetradecenoic acid, (E)-, (E)-9-Tetradecenoic acid, (9E)-9-Tetradecenoic acid is a product in category Monounsaturated FA. Buy online from Larodan Research Grade Lipids",
+    "molecular_weight": "226.36",
+    "url": "https://www.larodan.com/product/9e-tetradecanoic-acid/",
+    "img": "https://www.larodan.com/media/structures/50286301.svg",
+    "pdf_msds": "https://www.larodan.com/media/10-1402_ENG.pdf",
+    "synonyms": [
+        "E-9-Tetradecenoic acid",
+        " Myristelaidic acid",
+        " trans-9-Tetradecenoic acid",
+        " 9-Tetradecenoic acid",
+        " (E)-<input class=\"synonyms-expand-checkbox\" id=\"synonyms-expand-checkbox\" type=\"checkbox\"/><label class=\"synonyms-expand-label\" for=\"synonyms-expand-checkbox\"> [...]</label>"
+    ],
+    "packaging": {
+        "25 mg": 136.0,
+        "100 mg": 320.0
+    },
+    "image_path": "images\\10-1402.png",
+    "UN number": "Not classified as dangerous goods"
+}
+{
+    "id": "10-1420",
+    "name": "2(Z)-Tetradecenoic acid",
+    "CAS": "55928-66-0",
+    "structure": "C<sub>14</sub>H<sub>26</sub>O<sub>2</sub>",
+    "smiles": "O=C(O)C=CCCCCCCCCCCC",
+    "description": "2(Z)-Tetradecenoic acid, also known as cis-2-Tetradecenoic acid is a product in category Monounsaturated FA. Buy online from Larodan Research Grade Lipids",
+    "molecular_weight": "226,36",
+    "url": "https://www.larodan.com/product/2z-tetradecenoic-acid/",
+    "img": null,
+    "pdf_msds": "mailto:info@larodan.se?subject=MSDS for 2(Z)-Tetradecenoic acid / 10-1420",
+    "synonyms": [
+        "cis-2-Tetradecenoic acid"
+    ],
+    "packaging": {
+        "25 mg": null,
+        "5 mg": 300.0
+    },
+    "image_path": "images\\10-1420.png"
+}
+{
+    "id": "10-1501",
+    "name": "10(Z)-Pentadecenoic acid",
+    "CAS": "84743-29-3",
+    "structure": "C<sub>15</sub>H<sub>28</sub>O<sub>2</sub>",
+    "smiles": "O=C(O)CCCCCCCCC=CCCCC",
+    "description": "10(Z)-Pentadecenoic acid, also known as 10-Pentadecenoic acid, (Z)-, (10Z)-10-Pentadecenoic acid, cis-10-Pentadecenoic acid, (Z)-10-Pentadecenoic acid is a product in category Monounsaturated FA. Buy online from Larodan Research Grade Lipids",
+    "molecular_weight": "240.38",
+    "url": "https://www.larodan.com/product/10z-pentadecenoic-acid/",
+    "img": "https://www.larodan.com/media/structures/84743293.svg",
+    "pdf_msds": "https://www.larodan.com/media/10-1501_ENG.pdf",
+    "synonyms": [
+        "10-Pentadecenoic acid",
+        " (Z)-",
+        " (10Z)-10-Pentadecenoic acid",
+        " cis-10-Pentadecenoic acid",
+        " (Z)-10-Pentadecenoic acid"
+    ],
+    "packaging": {
+        "25 mg": 136.0,
+        "50 mg": 207.0,
+        "100 mg": 273.0
+    },
+    "image_path": "images\\10-1501.png",
+    "UN number": "Not classified as dangerous goods"
+}
+{
+    "id": "10-1511",
+    "name": "10(E)-Pentadecenoic acid",
+    "CAS": "321744-58-5",
+    "structure": "C<sub>15</sub>H<sub>28</sub>O<sub>2</sub>",
+    "smiles": "O=C(O)CCCCCCCCC=CCCCC",
+    "description": "10(E)-Pentadecenoic acid, also known as (10E)-10-Pentadecenoic acid is a product in category Monounsaturated FA. Buy online from Larodan Research Grade Lipids",
+    "molecular_weight": "240.38",
+    "url": "https://www.larodan.com/product/10e-pentadecenoic-acid/",
+    "img": "https://www.larodan.com/media/structures/321744585.svg",
+    "pdf_msds": "https://www.larodan.com/media/10-1511_ENG.pdf",
+    "synonyms": [
+        "(10E)-10-Pentadecenoic acid"
+    ],
+    "packaging": {
+        "25 mg": 173.0,
+        "100 mg": null
+    },
+    "image_path": "images\\10-1511.png",
+    "UN number": "Not classified as dangerous goods"
+}
+{
+    "id": "10-1514",
+    "name": "14-Pentadecenoic acid",
+    "CAS": "17351-34-7",
+    "structure": "C<sub>15</sub>H<sub>28</sub>O<sub>2</sub>",
+    "smiles": "O=C(O)CCCCCCCCCCCCC=C",
+    "description": "14-Pentadecenoic acid, also known as \u03c9-Pentadecenoic acid is a product in category Monounsaturated FA. Buy online from Larodan Research Grade Lipids",
+    "molecular_weight": "240.38",
+    "url": "https://www.larodan.com/product/14-pentadecenoic-acid/",
+    "img": "https://www.larodan.com/media/structures/17351347.svg",
+    "pdf_msds": "mailto:info@larodan.se?subject=MSDS for 14-Pentadecenoic acid / 10-1514",
+    "synonyms": [
+        "\u03c9-Pentadecenoic acid"
+    ],
+    "packaging": {
+        "100 mg": 207.0
+    },
+    "image_path": "images\\10-1514.png"
+}
+{
+    "id": "10-1601",
+    "name": "9(Z)-Hexadecenoic acid",
+    "CAS": "373-49-9",
+    "structure": "C<sub>16</sub>H<sub>30</sub>O<sub>2</sub>",
+    "smiles": "O=C(O)CCCCCCCC=CCCCCCC",
+    "description": "9(Z)-Hexadecenoic acid, also known as cis-9-Hexadecenoic acid, (Z)-9-Hexadecenoic acid, Palmitoleic acid, cis-\u03949-Hexadecenoic acid, cis-Palmitoleic acid, Zoomeric acid, Oleopalmitic acid, 9-cis-Hexadecenoic acid, C16:1, 9Z-Hexadecenoic acid, (Z)-Hexadec-9-enoic acid, (9Z)-9-Hexadecenoic acid, 9-Hexadecenoic acid, 9-Hexadecenoic acid, (Z)- is a product in category Monounsaturated FA. Buy online from Larodan Research Grade Lipids",
+    "molecular_weight": "254.41",
+    "url": "https://www.larodan.com/product/9z-hexadecenoic-acid/",
+    "img": "https://www.larodan.com/media/structures/373499.svg",
+    "pdf_msds": "https://www.larodan.com/media/10-1601_ENG.pdf",
+    "synonyms": [
+        "cis-9-Hexadecenoic acid",
+        " (Z)-9-Hexadecenoic acid",
+        " Palmitoleic acid",
+        " cis-\u03949-Hexadecenoic acid",
+        " cis-Palmitoleic acid<input class=\"synonyms-expand-checkbox\" id=\"synonyms-expand-checkbox\" type=\"checkbox\"/><label class=\"synonyms-expand-label\" for=\"synonyms-expand-checkbox\"> [...]</label>"
+    ],
+    "packaging": {
+        "5 x 100 mg": 163.0,
+        "100 mg": 54.0
+    },
+    "image_path": "images\\10-1601.png",
+    "UN number": "Not classified as dangerous goods"
+}
+{
+    "id": "10-1602",
+    "name": "9(E)-Hexadecenoic acid",
+    "CAS": "10030-73-6",
+    "structure": "C<sub>16</sub>H<sub>30</sub>O<sub>2</sub>",
+    "smiles": "O=C(O)CCCCCCCC=CCCCCCC",
+    "description": "9(E)-Hexadecenoic acid, also known as Palmitelaidic acid, (E)-9-Hexadecenoic acid, trans-9-Hexadecenoic acid, (9E)-9-Hexadecenoic acid, (E)-Hexadec-9-enoic acid, 9-trans-Hexadecenoic acid, trans-Palmitoleic acid, 9-Hexadecenoic acid, (E)- is a product in category Monounsaturated FA. Buy online from Larodan Research Grade Lipids",
+    "molecular_weight": "254.41",
+    "url": "https://www.larodan.com/product/9e-hexadecenoic-acid/",
+    "img": "https://www.larodan.com/media/structures/10030736.svg",
+    "pdf_msds": "https://www.larodan.com/media/10-1602_ENG.pdf",
+    "synonyms": [
+        "Palmitelaidic acid",
+        " (E)-9-Hexadecenoic acid",
+        " trans-9-Hexadecenoic acid",
+        " (9E)-9-Hexadecenoic acid<input class=\"synonyms-expand-checkbox\" id=\"synonyms-expand-checkbox\" type=\"checkbox\"/><label class=\"synonyms-expand-label\" for=\"synonyms-expand-checkbox\"> [...]</label>"
+    ],
+    "packaging": {
+        "1 g": 207.0,
+        "5 x 100 mg": 163.0,
+        "100 mg": 54.0
+    },
+    "image_path": "images\\10-1602.png",
+    "UN number": "Not classified as dangerous goods"
+}
+{
+    "id": "10-1606",
+    "name": "6(Z)-Hexadecenoic acid",
+    "CAS": "17004-51-2",
+    "structure": "C<sub>16</sub>H<sub>30</sub>O<sub>2</sub>",
+    "smiles": "O=C(O)CCCCC=CCCCCCCCCC",
+    "description": "6(Z)-Hexadecenoic acid, also known as 6-Hexadecenoic acid, (Z)-, C16:1\u03c910c, (Z)-6-Hexadecenoic acid, 16:1\u03c910, Sapienic acid, cis-6-Hexadecenoic acid, (6Z)-6-Hexadecenoic acid is a product in category Monounsaturated FA. Buy online from Larodan Research Grade Lipids",
+    "molecular_weight": "254.41",
+    "url": "https://www.larodan.com/product/6z-hexadecenoic-acid/",
+    "img": "https://www.larodan.com/media/structures/17004512.svg",
+    "pdf_msds": "https://www.larodan.com/media/10-1606_ENG-1.pdf",
+    "synonyms": [
+        "6-Hexadecenoic acid",
+        " (Z)-",
+        " C16:1\u03c910c",
+        " (Z)-6-Hexadecenoic acid",
+        " 16:1\u03c910",
+        " Sapienic acid",
+        " cis-6-Hexadecenoic acid",
+        " (6Z)-6-Hexadecenoic acid"
+    ],
+    "packaging": {
+        "1 g": null,
+        "5 mg": 115.0,
+        "25 mg": 288.0,
+        "100 mg": 575.0
+    },
+    "image_path": "images\\10-1606.png",
+    "UN number": "Not classified as dangerous goods"
+}
+{
+    "id": "10-1607",
+    "name": "7(Z)-Hexadecenoic acid",
+    "CAS": "2416-19-5",
+    "structure": "C<sub>16</sub>H<sub>30</sub>O<sub>2</sub>",
+    "smiles": "O=C(O)CCCCCC=CCCCCCCCC",
+    "description": "7(Z)-Hexadecenoic acid, also known as cis-7-Hexadecenoic acid, Hypogeic acid, (7Z)-7-Hexadecenoic acid, (Z)-7-Hexadecenoic acid, 7Z-Hexadecenoic acid, 7-Hexadecenoic acid, (Z)- is a product in category Monounsaturated FA. Buy online from Larodan Research Grade Lipids",
+    "molecular_weight": "254.41",
+    "url": "https://www.larodan.com/product/7z-hexadecenoic-acid/",
+    "img": "https://www.larodan.com/media/structures/2416195.svg",
+    "pdf_msds": "https://www.larodan.com/media/10-1607_ENG.pdf",
+    "synonyms": [
+        "cis-7-Hexadecenoic acid",
+        " Hypogeic acid",
+        " (7Z)-7-Hexadecenoic acid",
+        " (Z)-7-Hexadecenoic acid",
+        " 7Z-Hexadecenoic acid",
+        " 7-Hexadecenoic acid",
+        " (Z)-"
+    ],
+    "packaging": {
+        "10 mg": 130.0,
+        "50 mg": 525.0,
+        "100 mg": 980.0
+    },
+    "image_path": "images\\10-1607.png",
+    "UN number": "Not classified as dangerous goods"
+}
+{
+    "id": "10-1608",
+    "name": "2(E)-Hexadecenoic acid",
+    "CAS": "929-79-3",
+    "structure": "C<sub>16</sub>H<sub>30</sub>O<sub>2</sub>",
+    "smiles": "O=C(O)C=CCCCCCCCCCCCCC",
+    "description": "2(E)-Hexadecenoic acid, also known as 2-Hexadecenoic acid, (E)-, (2E)-2-Hexadecenoic acid, trans-2-Hexadecenoic acid, (E)-2-Hexadecenoic acid is a product in category Monounsaturated FA. Buy online from Larodan Research Grade Lipids",
+    "molecular_weight": "254.41",
+    "url": "https://www.larodan.com/product/2e-hexadecenoic-acid/",
+    "img": "https://www.larodan.com/media/structures/929793.svg",
+    "pdf_msds": "https://www.larodan.com/media/10-1608_ENG.pdf",
+    "synonyms": [
+        "2-Hexadecenoic acid",
+        " (E)-",
+        " (2E)-2-Hexadecenoic acid",
+        " trans-2-Hexadecenoic acid",
+        " (E)-2-Hexadecenoic acid"
+    ],
+    "packaging": {
+        "5 mg": 230.0
+    },
+    "image_path": "images\\10-1608.png",
+    "UN number": "Not classified as dangerous goods"
+}
+{
+    "id": "10-1609",
+    "name": "2(Z)-Hexadecenoic acid",
+    "CAS": "2825-68-5",
+    "structure": "C<sub>16</sub>H<sub>30</sub>O<sub>2</sub>",
+    "smiles": "O=C(O)C=CCCCCCCCCCCCCC",
+    "description": "2(Z)-Hexadecenoic acid, also known as 2-Hexadecenoic acid, (Z)-, (2Z)-2-Hexadecenoic acid is a product in category Monounsaturated FA. Buy online from Larodan Research Grade Lipids",
+    "molecular_weight": "254.41",
+    "url": "https://www.larodan.com/product/2z-hexadecenoic-acid/",
+    "img": "https://www.larodan.com/media/structures/2825685.svg",
+    "pdf_msds": "mailto:info@larodan.se?subject=MSDS for 2(Z)-Hexadecenoic acid / 10-1609",
+    "synonyms": [
+        "2-Hexadecenoic acid",
+        " (Z)-",
+        " (2Z)-2-Hexadecenoic acid"
+    ],
+    "packaging": {
+        "25 mg": 345.0
+    },
+    "image_path": "images\\10-1609.png"
+}
+{
+    "id": "10-1611",
+    "name": "11(Z)-Hexadecenoic acid",
+    "CAS": "2416-20-8",
+    "structure": "C<sub>16</sub>H<sub>30</sub>O<sub>2</sub>",
+    "smiles": "O=C(O)CCCCCCCCCC=CCCCC",
+    "description": "11(Z)-Hexadecenoic acid, also known as cis-11-Hexadecenoic acid, (Z)-11-Hexadecenoic acid, (11Z)-11-Hexadecenoic acid, 11-Hexadecenoic acid, (Z)-, Hexadec-11(Z)-enoic acid, \u039411-Hexadecenoic acid is a product in category Monounsaturated FA. Buy online from Larodan Research Grade Lipids",
+    "molecular_weight": "254.41",
+    "url": "https://www.larodan.com/product/11z-hexadecenoic-acid/",
+    "img": "https://www.larodan.com/media/structures/2416208.svg",
+    "pdf_msds": "https://www.larodan.com/media/10-1611_ENG.pdf",
+    "synonyms": [
+        "cis-11-Hexadecenoic acid",
+        " (Z)-11-Hexadecenoic acid",
+        " (11Z)-11-Hexadecenoic acid",
+        " 11-Hexadecenoic acid",
+        " (Z)-<input class=\"synonyms-expand-checkbox\" id=\"synonyms-expand-checkbox\" type=\"checkbox\"/><label class=\"synonyms-expand-label\" for=\"synonyms-expand-checkbox\"> [...]</label>"
+    ],
+    "packaging": {
+        "5 mg": 345.0,
+        "100 mg": null
+    },
+    "image_path": "images\\10-1611.png",
+    "UN number": "Not classified as dangerous goods"
+}
+{
+    "id": "10-1701",
+    "name": "10(Z)-Heptadecenoic acid",
+    "CAS": "29743-97-3",
+    "structure": "C<sub>17</sub>H<sub>32</sub>O<sub>2</sub>",
+    "smiles": "O=C(O)CCCCCCCCC=CCCCCCC",
+    "description": "10(Z)-Heptadecenoic acid, also known as Z 10-Heptadecenoic acid, 10-Heptadecenoic acid, (Z)-, (10Z)-10-Heptadecenoic acid, cis-10-Heptadecenoic acid, 10Z-Heptadecenoic acid, 10-cis-Heptadecenoic acid is a product in category Monounsaturated FA. Buy online from Larodan Research Grade Lipids",
+    "molecular_weight": "268.44",
+    "url": "https://www.larodan.com/product/10z-heptadecenoic-acid/",
+    "img": "https://www.larodan.com/media/structures/29743973.svg",
+    "pdf_msds": "https://www.larodan.com/media/10-1701_ENG.pdf",
+    "synonyms": [
+        "Z 10-Heptadecenoic acid",
+        " 10-Heptadecenoic acid",
+        " (Z)-",
+        " (10Z)-10-Heptadecenoic acid",
+        " cis-10-Heptadecenoic acid<input class=\"synonyms-expand-checkbox\" id=\"synonyms-expand-checkbox\" type=\"checkbox\"/><label class=\"synonyms-expand-label\" for=\"synonyms-expand-checkbox\"> [...]</label>"
+    ],
+    "packaging": {
+        "5 x 100 mg": 215.0,
+        "100 mg": 76.0
+    },
+    "image_path": "images\\10-1701.png",
+    "UN number": "Not classified as dangerous goods"
+}
+{
+    "id": "10-1702",
+    "name": "10(E)-Heptadecenoic acid",
+    "CAS": "126761-43-1",
+    "structure": "C<sub>17</sub>H<sub>32</sub>O<sub>2</sub>",
+    "smiles": "O=C(O)CCCCCCCCC=CCCCCCC",
+    "description": "10(E)-Heptadecenoic acid, also known as 10-Heptadecenoic acid, (E)-, (10E)-10-Heptadecenoic acid is a product in category Monounsaturated FA. Buy online from Larodan Research Grade Lipids",
+    "molecular_weight": "268.44",
+    "url": "https://www.larodan.com/product/10e-heptadecenoic-acid/",
+    "img": "https://www.larodan.com/media/structures/126761431.svg",
+    "pdf_msds": "https://www.larodan.com/media/10-1702_ENG.pdf",
+    "synonyms": [
+        "10-Heptadecenoic acid",
+        " (E)-",
+        " (10E)-10-Heptadecenoic acid"
+    ],
+    "packaging": {
+        "500 mg": 472.0,
+        "1 g": 909.0,
+        "3 x 25 mg": 197.0,
+        "25 mg": 99.0,
+        "100 mg": 170.0
+    },
+    "image_path": "images\\10-1702.png",
+    "UN number": "Not classified as dangerous goods"
+}
+{
+    "id": "10-1709",
+    "name": "9(Z)-Heptadecenoic acid",
+    "CAS": "1981-50-6",
+    "structure": "C<sub>17</sub>H<sub>32</sub>O<sub>2</sub>",
+    "smiles": "O=C(O)CCCCCCCC=CCCCCCCC",
+    "description": "9(Z)-Heptadecenoic acid, also known as (Z)-9-Heptadecenoic acid, cis-n-9-Heptadecenoic acid, (Z)-Heptadec-9-enoic acid, Margaroleic acid, (9Z)-9-Heptadecenoic acid, 9-Heptadecenoic acid, (Z)-, cis-9-Heptadecenoic acid is a product in category Monounsaturated FA. Buy online from Larodan Research Grade Lipids",
+    "molecular_weight": "268.44",
+    "url": "https://www.larodan.com/product/9z-heptadecenoic-acid/",
+    "img": "https://www.larodan.com/media/structures/1981506.svg",
+    "pdf_msds": "https://www.larodan.com/media/10-1709_ENG Ethanol.pdf",
+    "synonyms": [
+        "(Z)-9-Heptadecenoic acid",
+        " cis-n-9-Heptadecenoic acid",
+        " (Z)-Heptadec-9-enoic acid",
+        " Margaroleic acid<input class=\"synonyms-expand-checkbox\" id=\"synonyms-expand-checkbox\" type=\"checkbox\"/><label class=\"synonyms-expand-label\" for=\"synonyms-expand-checkbox\"> [...]</label>"
+    ],
+    "packaging": {
+        "5 mg": 345.0
+    },
+    "image_path": "images\\10-1709.png"
+}
+{
+    "id": "10-1723",
+    "name": "13(E)-Heptadecenoic acid",
+    "CAS": "1106676-15-6",
+    "structure": "C<sub>17</sub>H<sub>32</sub>O<sub>2</sub>",
+    "smiles": "O=C(O)CCCCCCCCCCCC=CCCC",
+    "description": "13(E)-Heptadecenoic acid is a product in category Monounsaturated FA. Buy online from Larodan Research Grade Lipids",
+    "molecular_weight": "268,44",
+    "url": "https://www.larodan.com/product/13e-heptadecenoic-acid/",
+    "img": null,
+    "pdf_msds": "mailto:info@larodan.se?subject=MSDS for 13(E)-Heptadecenoic acid / 10-1723",
+    "synonyms": null,
+    "packaging": {
+        "5 mg": null
+    },
+    "image_path": "images\\10-1723.png"
+}
+{
+    "id": "10-1801",
+    "name": "9(Z)-Octadecenoic acid",
+    "CAS": "112-80-1",
+    "structure": "C<sub>18</sub>H<sub>34</sub>O<sub>2</sub>",
+    "smiles": "O=C(O)CCCCCCCC=CCCCCCCCC",
+    "description": "9(Z)-Octadecenoic acid, also known as 9-Octadecenoic acid, (Z)-, (9Z)-9-Octadecenoic acid, 9-cis-Octadecenoic acid, \u03949-cis-Oleic acid, Lubolic acid, 9Z-Octadecenoic acid, cis-Oleic acid, 9-Octadecenoic acid (Z)-, cis-9-Octadecenoic acid, Z-9-Octadecenoic acid, \u03949-cis-Octadecenoic acid, cis-\u03949-Octadecenoic acid, C18:1, C18:1n9c, (18,9-Olefin) oleic acid is a product in category Monounsaturated FA. Buy online from Larodan Research Grade Lipids",
+    "molecular_weight": "282.46",
+    "url": "https://www.larodan.com/product/9z-octadecenoic-acid/",
+    "img": "https://www.larodan.com/media/structures/112801.svg",
+    "pdf_msds": "https://www.larodan.com/media/10-1801_ENG.pdf",
+    "synonyms": [
+        "9-Octadecenoic acid",
+        " (Z)-",
+        " (9Z)-9-Octadecenoic acid",
+        " 9-cis-Octadecenoic acid",
+        " \u03949-cis-Oleic acid",
+        " Lubolic acid<input class=\"synonyms-expand-checkbox\" id=\"synonyms-expand-checkbox\" type=\"checkbox\"/><label class=\"synonyms-expand-label\" for=\"synonyms-expand-checkbox\"> [...]</label>"
+    ],
+    "packaging": {
+        "1 g": 36.0,
+        "10 g": 140.0,
+        "100 g": 500.0,
+        "1 kg": 2000.0
+    },
+    "image_path": "images\\10-1801.png",
+    "UN number": "Not classified as dangerous goods"
+}
+{
+    "id": "10-1805",
+    "name": "5(Z)-Octadecenoic acid",
+    "CAS": "676-29-9",
+    "structure": "C<sub>18</sub>H<sub>34</sub>O<sub>2</sub>",
+    "smiles": "O=C(O)CCCC=CCCCCCCCCCCCC",
+    "description": "5(Z)-Octadecenoic acid, also known as (Z)-5-Octadecenoic acid, \u03945,6-Octadecenoic acid, \u03945-cis-Octadecenoic acid, (5Z)-5-Octadecenoic acid, 5-Octadecenoic acid, (Z)-, cis-5-Octadecenoic acid is a product in category Monounsaturated FA. Buy online from Larodan Research Grade Lipids",
+    "molecular_weight": "282.46",
+    "url": "https://www.larodan.com/product/5z-octadecenoic-acid/",
+    "img": "https://www.larodan.com/media/structures/676299.svg",
+    "pdf_msds": "https://www.larodan.com/media/10-1805_ENG-v2.pdf",
+    "synonyms": [
+        "(Z)-5-Octadecenoic acid",
+        " \u03945",
+        "6-Octadecenoic acid",
+        " \u03945-cis-Octadecenoic acid",
+        " (5Z)-5-Octadecenoic acid<input class=\"synonyms-expand-checkbox\" id=\"synonyms-expand-checkbox\" type=\"checkbox\"/><label class=\"synonyms-expand-label\" for=\"synonyms-expand-checkbox\"> [...]</label>"
+    ],
+    "packaging": {
+        "5 mg": 345.0,
+        "25 mg": null
+    },
+    "image_path": "images\\10-1805.png",
+    "UN number": "Not classified as dangerous goods"
+}
+{
+    "id": "10-1806",
+    "name": "2(E)-Octadecenoic acid",
+    "CAS": "2825-79-8",
+    "structure": "C<sub>18</sub>H<sub>34</sub>O<sub>2</sub>",
+    "smiles": "O=C(O)C=CCCCCCCCCCCCCCCC",
+    "description": "2(E)-Octadecenoic acid, also known as 2-Octadecenoic acid, (E)-, (2E)-2-Octadecenoic acid, trans-2-Octadecenoic acid, (E)-2-Octadecenoic acid is a product in category Monounsaturated FA. Buy online from Larodan Research Grade Lipids",
+    "molecular_weight": "282.46",
+    "url": "https://www.larodan.com/product/2e-octadecenoic-acid/",
+    "img": "https://www.larodan.com/media/structures/2825798.svg",
+    "pdf_msds": "https://www.larodan.com/media/10-1806_ENG.pdf",
+    "synonyms": [
+        "2-Octadecenoic acid",
+        " (E)-",
+        " (2E)-2-Octadecenoic acid",
+        " trans-2-Octadecenoic acid",
+        " (E)-2-Octadecenoic acid"
+    ],
+    "packaging": {
+        "5 mg": 345.0
+    },
+    "image_path": "images\\10-1806.png",
+    "UN number": "Not classified as dangerous goods"
+}
+{
+    "id": "10-1807",
+    "name": "7(Z)-Octadecenoic acid",
+    "CAS": "13126-31-3",
+    "structure": "C<sub>18</sub>H<sub>34</sub>O<sub>2</sub>",
+    "smiles": "O=C(O)CCCCCC=CCCCCCCCCCC",
+    "description": "7(Z)-Octadecenoic acid, also known as (7Z)-7-Octadecenoic acid, 7-Octadecenoic acid, cis-, \u03947-cis-Octadecenoic acid, 7-Octadecenoic acid, (Z)-, (Z)-7-Octadecenoic acid, cis-7-Octadecenoic acid is a product in category Monounsaturated FA. Buy online from Larodan Research Grade Lipids",
+    "molecular_weight": "282.46",
+    "url": "https://www.larodan.com/product/7z-octadecenoic-acid/",
+    "img": "https://www.larodan.com/media/structures/13126313.svg",
+    "pdf_msds": "https://www.larodan.com/media/10-1807_ENG.pdf",
+    "synonyms": [
+        "(7Z)-7-Octadecenoic acid",
+        " 7-Octadecenoic acid",
+        " cis-",
+        " \u03947-cis-Octadecenoic acid",
+        " 7-Octadecenoic acid",
+        " (Z)-<input class=\"synonyms-expand-checkbox\" id=\"synonyms-expand-checkbox\" type=\"checkbox\"/><label class=\"synonyms-expand-label\" for=\"synonyms-expand-checkbox\"> [...]</label>"
+    ],
+    "packaging": {
+        "5 mg": 345.0
+    },
+    "image_path": "images\\10-1807.png",
+    "UN number": "Not classified as dangerous goods"
+}
+{
+    "id": "10-1809",
+    "name": "6(E)-Octadecenoic acid",
+    "CAS": "593-40-8",
+    "structure": "C<sub>18</sub>H<sub>34</sub>O<sub>2</sub>",
+    "smiles": "O=C(O)CCCCC=CCCCCCCCCCCC",
+    "description": "6(E)-Octadecenoic acid, also known as (E)-6-Octadecenoic acid, trans-\u03946-Octadecenoic acid, Petroselaidic acid, (6E)-6-Octadecenoic acid, \u03946-trans-Octadecenoic acid, trans-6-Octadecenoic acid, 6-Octadecenoic acid, (E)-, 6-trans-Octadecenoic acid, C18:1-6t is a product in category Monounsaturated FA. Buy online from Larodan Research Grade Lipids",
+    "molecular_weight": "282.46",
+    "url": "https://www.larodan.com/product/6e-octadecenoic-acid/",
+    "img": "https://www.larodan.com/media/structures/593408.svg",
+    "pdf_msds": "https://www.larodan.com/media/10-1809_ENG.pdf",
+    "synonyms": [
+        "(E)-6-Octadecenoic acid",
+        " trans-\u03946-Octadecenoic acid",
+        " Petroselaidic acid",
+        " (6E)-6-Octadecenoic acid<input class=\"synonyms-expand-checkbox\" id=\"synonyms-expand-checkbox\" type=\"checkbox\"/><label class=\"synonyms-expand-label\" for=\"synonyms-expand-checkbox\"> [...]</label>"
+    ],
+    "packaging": {
+        "1 g": 219.0,
+        "5 g": 610.0,
+        "10 g": 1058.0,
+        "100 mg": 74.0
+    },
+    "image_path": "images\\10-1809.png",
+    "UN number": "Not classified as dangerous goods"
+}
+{
+    "id": "10-1810",
+    "name": "9(E)-Octadecenoic acid",
+    "CAS": "112-79-8",
+    "structure": "C<sub>18</sub>H<sub>34</sub>O<sub>2</sub>",
+    "smiles": "O=C(O)CCCCCCCC=CCCCCCCCC",
+    "description": "9(E)-Octadecenoic acid, also known as trans-9-Octadecenoic acid, 9-Octadecenoic acid, (E)-, NSC 26988, Elaidinic acid, (E)-9-Octadecenoic acid, (9E)-9-Octadecenoic acid, \u03949-trans-Octadecenoic acid, trans-Elaidic acid, 9-trans-Oleic acid, 9-trans-Octadecenoic acid, (9E)-Octadecenoic acid, (E)-Oleic acid, trans-\u03949-Octadecenoic acid, Elaidic acid, trans-Oleic acid is a product in category Monounsaturated FA. Buy online from Larodan Research Grade Lipids",
+    "molecular_weight": "282.46",
+    "url": "https://www.larodan.com/product/9e-octadecenoic-acid/",
+    "img": "https://www.larodan.com/media/structures/112798.svg",
+    "pdf_msds": "https://www.larodan.com/media/10-1810_ENG.pdf",
+    "synonyms": [
+        "trans-9-Octadecenoic acid",
+        " 9-Octadecenoic acid",
+        " (E)-",
+        " NSC 26988",
+        " Elaidinic acid",
+        " (E)-9-Octadecenoic acid<input class=\"synonyms-expand-checkbox\" id=\"synonyms-expand-checkbox\" type=\"checkbox\"/><label class=\"synonyms-expand-label\" for=\"synonyms-expand-checkbox\"> [...]</label>"
+    ],
+    "packaging": {
+        "1 g": 67.0,
+        "5 x 1 g": 215.0,
+        "100 mg": 46.0
+    },
+    "image_path": "images\\10-1810.png",
+    "UN number": "Not classified as dangerous goods"
+}
+{
+    "id": "10-1811",
+    "name": "6(Z)-Octadecenoic acid",
+    "CAS": "593-39-5",
+    "structure": "C<sub>18</sub>H<sub>34</sub>O<sub>2</sub>",
+    "smiles": "O=C(O)CCCCC=CCCCCCCCCCCC",
+    "description": "6(Z)-Octadecenoic acid, also known as Petroselic acid, (6Z)-6-Octadecenoic acid, \u03946-cis-Octadecenoic acid, cis-6-Octadecenoic acid, 6(Z)-Octadecenoic acid, cis-Petroselinic acid, cis-\u03946-Octadecenoic acid, Petroselinic acid, (Z)-6-Octadecenoic acid, 6-Octadecenoic acid, (Z)-, (6Z)-Octadecenoic acid is a product in category Monounsaturated FA. Buy online from Larodan Research Grade Lipids",
+    "molecular_weight": "282.46",
+    "url": "https://www.larodan.com/product/6z-octadecenoic-acid/",
+    "img": "https://www.larodan.com/media/structures/593395.svg",
+    "pdf_msds": "https://www.larodan.com/media/10-1811_ENG.pdf",
+    "synonyms": [
+        "Petroselic acid",
+        " (6Z)-6-Octadecenoic acid",
+        " \u03946-cis-Octadecenoic acid",
+        " cis-6-Octadecenoic acid",
+        " 6(Z)-Octadecenoic acid<input class=\"synonyms-expand-checkbox\" id=\"synonyms-expand-checkbox\" type=\"checkbox\"/><label class=\"synonyms-expand-label\" for=\"synonyms-expand-checkbox\"> [...]</label>"
+    ],
+    "packaging": {
+        "5 x 100 mg": 175.0,
+        "100 mg": 55.0
+    },
+    "image_path": "images\\10-1811.png",
+    "UN number": "Not classified as dangerous goods"
+}
+{
+    "id": "10-1812",
+    "name": "11(Z)-Octadecenoic acid",
+    "CAS": "506-17-2",
+    "structure": "C<sub>18</sub>H<sub>34</sub>O<sub>2</sub>",
+    "smiles": "O=C(O)CCCCCCCCCC=CCCCCCC",
+    "description": "11(Z)-Octadecenoic acid, also known as (Z)-Octadec-11-enoic acid, 11-cis-Octadecenoic acid, cis-11-Vaccenic acid, cis-11-Octadecenoic acid, 11-Octadecenoic acid, (Z)-, \u039411-cis-Octadecenoic acid, cis-\u039411-Octadecenoic acid, (11Z)-11-Octadecenoic acid, cis-Vaccenic acid, (Z)-11-Octadecenoic acid, Asclepic acid, C18:1, 11-cis-Vaccenic acid, 11-Octadecenoic acid, cis- is a product in category Monounsaturated FA. Buy online from Larodan Research Grade Lipids",
+    "molecular_weight": "282.46",
+    "url": "https://www.larodan.com/product/11z-octadecenoic-acid/",
+    "img": "https://www.larodan.com/media/structures/506172.svg",
+    "pdf_msds": "https://www.larodan.com/media/10-1812_ENG.pdf",
+    "synonyms": [
+        "(Z)-Octadec-11-enoic acid",
+        " 11-cis-Octadecenoic acid",
+        " cis-11-Vaccenic acid",
+        " cis-11-Octadecenoic acid<input class=\"synonyms-expand-checkbox\" id=\"synonyms-expand-checkbox\" type=\"checkbox\"/><label class=\"synonyms-expand-label\" for=\"synonyms-expand-checkbox\"> [...]</label>"
+    ],
+    "packaging": {
+        "5 x 100 mg": 213.0,
+        "100 mg": 74.0
+    },
+    "image_path": "images\\10-1812.png",
+    "UN number": "Not classified as dangerous goods"
+}
+{
+    "id": "10-1813",
+    "name": "11(E)-Octadecenoic acid",
+    "CAS": "693-72-1",
+    "structure": "C<sub>18</sub>H<sub>34</sub>O<sub>2</sub>",
+    "smiles": "O=C(O)CCCCCCCCCC=CCCCCCC",
+    "description": "11(E)-Octadecenoic acid, also known as (11E)-11-Octadecenoic acid, 11(E)-Octadecenoic acid, trans-11-Octadecenoic acid, 11-trans-Octadecenoic acid, trans-Vaccenic acid, (E)-Octadec-11-enoic acid, Vaccenic acid, trans-\u039411-Octadecenoic acid, 11-Octadecenoic acid, (E)-, (E)-11-Octadecenoic acid is a product in category Monounsaturated FA. Buy online from Larodan Research Grade Lipids",
+    "molecular_weight": "282.46",
+    "url": "https://www.larodan.com/product/11e-octadecenoic-acid/",
+    "img": "https://www.larodan.com/media/structures/693721.svg",
+    "pdf_msds": "https://www.larodan.com/media/10-1813_ENG.pdf",
+    "synonyms": [
+        "(11E)-11-Octadecenoic acid",
+        " 11(E)-Octadecenoic acid",
+        " trans-11-Octadecenoic acid",
+        " 11-trans-Octadecenoic acid<input class=\"synonyms-expand-checkbox\" id=\"synonyms-expand-checkbox\" type=\"checkbox\"/><label class=\"synonyms-expand-label\" for=\"synonyms-expand-checkbox\"> [...]</label>"
+    ],
+    "packaging": {
+        "5 x 100 mg": 500.0,
+        "100 mg": 160.0
+    },
+    "image_path": "images\\10-1813.png",
+    "UN number": "Not classified as dangerous goods"
+}
+{
+    "id": "10-1814",
+    "name": "12(Z)-Octadecenoic acid",
+    "CAS": "13126-37-9",
+    "structure": "C<sub>18</sub>H<sub>34</sub>O<sub>2</sub>",
+    "smiles": "O=C(O)CCCCCCCCCCC=CCCCCC",
+    "description": "12(Z)-Octadecenoic acid, also known as (12Z)-12-Octadecenoic acid, \u039412-cis-Octadecenoic acid, cis-12-Octadecenoic acid, (Z)-12-Octadecenoic acid, 12-Octadecenoic acid, cis-, 12-Octadecenoic acid, (Z)-, 12Z-Octadecenoic acid is a product in category Monounsaturated FA. Buy online from Larodan Research Grade Lipids",
+    "molecular_weight": "282.46",
+    "url": "https://www.larodan.com/product/12z-octadecenoic-acid/",
+    "img": "https://www.larodan.com/media/structures/13126379.svg",
+    "pdf_msds": "https://www.larodan.com/media/10-1814_ENG.pdf",
+    "synonyms": [
+        "(12Z)-12-Octadecenoic acid",
+        " \u039412-cis-Octadecenoic acid",
+        " cis-12-Octadecenoic acid",
+        " (Z)-12-Octadecenoic acid<input class=\"synonyms-expand-checkbox\" id=\"synonyms-expand-checkbox\" type=\"checkbox\"/><label class=\"synonyms-expand-label\" for=\"synonyms-expand-checkbox\"> [...]</label>"
+    ],
+    "packaging": {
+        "5 mg": 345.0
+    },
+    "image_path": "images\\10-1814.png",
+    "UN number": "Not classified as dangerous goods"
+}
+{
+    "id": "10-1815",
+    "name": "13(Z)-Octadecenoic acid",
+    "CAS": "13126-39-1",
+    "structure": "C<sub>18</sub>H<sub>34</sub>O<sub>2</sub>",
+    "smiles": "O=C(O)CCCCCCCCCCCC=CCCCC",
+    "description": "13(Z)-Octadecenoic acid, also known as (13Z)-13-Octadecenoic acid, cis-13-Octadecenoic acid, 13(Z)-Octadecenoic acid, (Z)-13-Octadecenoic acid, \u039413-cis-Octadecenoic acid, 13-Octadecenoic acid, (Z)- is a product in category Monounsaturated FA. Buy online from Larodan Research Grade Lipids",
+    "molecular_weight": "282.46",
+    "url": "https://www.larodan.com/product/13z-octadecenoic-acid/",
+    "img": "https://www.larodan.com/media/structures/13126391.svg",
+    "pdf_msds": "https://www.larodan.com/media/10-1815_ENG Ethanol.pdf",
+    "synonyms": [
+        "(13Z)-13-Octadecenoic acid",
+        " cis-13-Octadecenoic acid",
+        " 13(Z)-Octadecenoic acid",
+        " (Z)-13-Octadecenoic acid<input class=\"synonyms-expand-checkbox\" id=\"synonyms-expand-checkbox\" type=\"checkbox\"/><label class=\"synonyms-expand-label\" for=\"synonyms-expand-checkbox\"> [...]</label>"
+    ],
+    "packaging": {
+        "5 mg": 345.0,
+        "25 mg": null
+    },
+    "image_path": "images\\10-1815.png"
+}
+{
+    "id": "10-1818",
+    "name": "8(Z)-Octadecenoic acid",
+    "CAS": "5684-71-9",
+    "structure": "C<sub>18</sub>H<sub>34</sub>O<sub>2</sub>",
+    "smiles": "O=C(O)CCCCCCC=CCCCCCCCCC",
+    "description": "8(Z)-Octadecenoic acid, also known as (8Z)-8-Octadecenoic acid, C18:1\u03c910c, \u03948-cis-Octadecenoic acid, cis-8-Octadecenoic acid, C18:1n10, 8-Octadecenoic acid, (Z)- is a product in category Monounsaturated FA. Buy online from Larodan Research Grade Lipids",
+    "molecular_weight": "282.46",
+    "url": "https://www.larodan.com/product/8z-octadecenoic-acid/",
+    "img": "https://www.larodan.com/media/structures/5684719.svg",
+    "pdf_msds": "https://www.larodan.com/media/10-1818_ENG.pdf",
+    "synonyms": [
+        "(8Z)-8-Octadecenoic acid",
+        " C18:1\u03c910c",
+        " \u03948-cis-Octadecenoic acid",
+        " cis-8-Octadecenoic acid",
+        " C18:1n10",
+        " 8-Octadecenoic acid",
+        " (Z)-"
+    ],
+    "packaging": {
+        "5 mg": 345.0,
+        "100 mg": null
+    },
+    "image_path": "images\\10-1818.png",
+    "UN number": "Not classified as dangerous goods"
+}
+{
+    "id": "10-1819",
+    "name": "10(Z)-Octadecenoic acid",
+    "CAS": "2442-70-8",
+    "structure": "C<sub>18</sub>H<sub>34</sub>O<sub>2</sub>",
+    "smiles": "O=C(O)CCCCCCCCC=CCCCCCCC",
+    "description": "10(Z)-Octadecenoic acid, also known as \u039410-cis-Octadecenoic acid, 10-Octadecenoic acid, (Z)-, (Z)-10-Octadecenoic acid, 10-cis-Octadecenoic acid, cis-10-Octadecenoic acid, cis-\u039410-Octadecenoic acid, (10Z)-10-Octadecenoic acid is a product in category Monounsaturated FA. Buy online from Larodan Research Grade Lipids",
+    "molecular_weight": "282.46",
+    "url": "https://www.larodan.com/product/10z-octadecenoic-acid/",
+    "img": "https://www.larodan.com/media/structures/2442708.svg",
+    "pdf_msds": "https://www.larodan.com/media/10-1819_ENG Ethanol.pdf",
+    "synonyms": [
+        "\u039410-cis-Octadecenoic acid",
+        " 10-Octadecenoic acid",
+        " (Z)-",
+        " (Z)-10-Octadecenoic acid",
+        " 10-cis-Octadecenoic acid<input class=\"synonyms-expand-checkbox\" id=\"synonyms-expand-checkbox\" type=\"checkbox\"/><label class=\"synonyms-expand-label\" for=\"synonyms-expand-checkbox\"> [...]</label>"
+    ],
+    "packaging": {
+        "1 mg": null,
+        "5 mg": 345.0
+    },
+    "image_path": "images\\10-1819.png"
+}
+{
+    "id": "10-1890",
+    "name": "9-Octadecynoic acid",
+    "CAS": "506-24-1",
+    "structure": "C<sub>18</sub>H<sub>32</sub>O<sub>2</sub>",
+    "smiles": "O=C(O)CCCCCCCC#CCCCCCCCC",
+    "description": "9-Octadecynoic acid, also known as Stearolic acid, 9-Stearolic acid, Octadecanoic acid-9-yne is a product in category Monounsaturated FA. Buy online from Larodan Research Grade Lipids",
+    "molecular_weight": "280.45",
+    "url": "https://www.larodan.com/product/9-octadecynoic-acid/",
+    "img": "https://www.larodan.com/media/structures/506241.svg",
+    "pdf_msds": "https://www.larodan.com/media/10-1890_ENG.pdf",
+    "synonyms": [
+        "Stearolic acid",
+        " 9-Stearolic acid",
+        " Octadecanoic acid-9-yne"
+    ],
+    "packaging": {
+        "5 mg": 345.0
+    },
+    "image_path": "images\\10-1890.png",
+    "UN number": "Not classified as dangerous goods"
+}
+{
+    "id": "10-1901",
+    "name": "10(Z)-Nonadecenoic acid",
+    "CAS": "73033-09-7",
+    "structure": "C<sub>19</sub>H<sub>36</sub>O<sub>2</sub>",
+    "smiles": "O=C(O)CCCCCCCCC=CCCCCCCCC",
+    "description": "10(Z)-Nonadecenoic acid, also known as 10-Nonadecenoic acid, (Z)-, (10Z)-10-Nonadecenoic acid, cis-10-Nonadecenoic acid, (Z)-10-Nonadecenoic acid is a product in category Monounsaturated FA. Buy online from Larodan Research Grade Lipids",
+    "molecular_weight": "296.49",
+    "url": "https://www.larodan.com/product/10z-nonadecenoic-acid/",
+    "img": "https://www.larodan.com/media/structures/73033097.svg",
+    "pdf_msds": "mailto:info@larodan.se?subject=MSDS for 10(Z)-Nonadecenoic acid / 10-1901",
+    "synonyms": [
+        "10-Nonadecenoic acid",
+        " (Z)-",
+        " (10Z)-10-Nonadecenoic acid",
+        " cis-10-Nonadecenoic acid",
+        " (Z)-10-Nonadecenoic acid"
+    ],
+    "packaging": {
+        "1 g": 273.0,
+        "100 mg": 69.0
+    },
+    "image_path": "images\\10-1901.png"
+}
+{
+    "id": "10-1907",
+    "name": "7(Z)-Nonadecenoic acid",
+    "CAS": "118020-79-4",
+    "structure": "C<sub>19</sub>H<sub>36</sub>O<sub>2</sub>",
+    "smiles": "O=C(O)CCCCCC=CCCCCCCCCCCC",
+    "description": "7(Z)-Nonadecenoic acid, also known as 7-Nonadecenoic acid, (Z)-, (7Z)-7-Nonadecenoic acid, cis-7-Nonadecenoic acid, (Z)-7-Nonadecenoic acid is a product in category Monounsaturated FA. Buy online from Larodan Research Grade Lipids",
+    "molecular_weight": "296.49",
+    "url": "https://www.larodan.com/product/7z-nonadecenoic-acid/",
+    "img": "https://www.larodan.com/media/structures/118020794.svg",
+    "pdf_msds": "mailto:info@larodan.se?subject=MSDS for 7(Z)-Nonadecenoic acid / 10-1907",
+    "synonyms": [
+        "7-Nonadecenoic acid",
+        " (Z)-",
+        " (7Z)-7-Nonadecenoic acid",
+        " cis-7-Nonadecenoic acid",
+        " (Z)-7-Nonadecenoic acid"
+    ],
+    "packaging": {
+        "25 mg": 138.0
+    },
+    "image_path": "images\\10-1907.png"
+}
+{
+    "id": "10-1908",
+    "name": "7(E)-Nonadecenoic acid",
+    "CAS": "191544-99-7",
+    "structure": "C<sub>19</sub>H<sub>36</sub>O<sub>2</sub>",
+    "smiles": "O=C(O)CCCCCC=CCCCCCCCCCCC",
+    "description": "7(E)-Nonadecenoic acid, also known as 7-Nonadecenoic acid, (E)-, (7E)-7-Nonadecenoic acid is a product in category Monounsaturated FA. Buy online from Larodan Research Grade Lipids",
+    "molecular_weight": "296.49",
+    "url": "https://www.larodan.com/product/7e-nonadecenoic-acid/",
+    "img": "https://www.larodan.com/media/structures/191544997.svg",
+    "pdf_msds": "mailto:info@larodan.se?subject=MSDS for 7(E)-Nonadecenoic acid / 10-1908",
+    "synonyms": [
+        "7-Nonadecenoic acid",
+        " (E)-",
+        " (7E)-7-Nonadecenoic acid"
+    ],
+    "packaging": {
+        "25 mg": 161.0
+    },
+    "image_path": "images\\10-1908.png"
+}
+{
+    "id": "10-1910",
+    "name": "10(E)-Nonadecenoic acid",
+    "CAS": "147527-21-7",
+    "structure": "C<sub>19</sub>H<sub>36</sub>O<sub>2</sub>",
+    "smiles": "O=C(O)CCCCCCCCC=CCCCCCCCC",
+    "description": "10(E)-Nonadecenoic acid, also known as 10-Nonadecenoic acid, (E)-, (10E)-10-Nonadecenoic acid is a product in category Monounsaturated FA. Buy online from Larodan Research Grade Lipids",
+    "molecular_weight": "296.49",
+    "url": "https://www.larodan.com/product/10e-nonadecenoic-acid/",
+    "img": "https://www.larodan.com/media/structures/147527217.svg",
+    "pdf_msds": "mailto:info@larodan.se?subject=MSDS for 10(E)-Nonadecenoic acid / 10-1910",
+    "synonyms": [
+        "10-Nonadecenoic acid",
+        " (E)-",
+        " (10E)-10-Nonadecenoic acid"
+    ],
+    "packaging": {
+        "25 mg": 138.0
+    },
+    "image_path": "images\\10-1910.png"
+}
+{
+    "id": "10-2001",
+    "name": "11(Z)-Eicosenoic acid",
+    "CAS": "5561-99-9",
+    "structure": "C<sub>20</sub>H<sub>38</sub>O<sub>2</sub>",
+    "smiles": "O=C(O)CCCCCCCCCC=CCCCCCCCC",
+    "description": "11(Z)-Eicosenoic acid, also known as 11Z-Eicosenoic acid, Gondoic acid, (Z)-11-Eicosenoic acid, cis-\u039411-Eicosenoic acid, cis-11-Eicosenoic acid, (11Z)-11-Eicosenoic acid, 11-Eicosenoic acid, (Z)-, 11-cis-Eicosenoic acid is a product in category Monounsaturated FA. Buy online from Larodan Research Grade Lipids",
+    "molecular_weight": "310.52",
+    "url": "https://www.larodan.com/product/11z-eicosenoic-acid/",
+    "img": "https://www.larodan.com/media/structures/5561999.svg",
+    "pdf_msds": "https://www.larodan.com/media/10-2001_ENG.pdf",
+    "synonyms": [
+        "11Z-Eicosenoic acid",
+        " Gondoic acid",
+        " (Z)-11-Eicosenoic acid",
+        " cis-\u039411-Eicosenoic acid",
+        " cis-11-Eicosenoic acid<input class=\"synonyms-expand-checkbox\" id=\"synonyms-expand-checkbox\" type=\"checkbox\"/><label class=\"synonyms-expand-label\" for=\"synonyms-expand-checkbox\"> [...]</label>"
+    ],
+    "packaging": {
+        "5 x 100 mg": 133.0,
+        "100 mg": 51.0
+    },
+    "image_path": "images\\10-2001.png",
+    "UN number": "Not classified as dangerous goods"
+}
+{
+    "id": "10-2008",
+    "name": "8(Z)-\u200bEicosenoic acid",
+    "CAS": "76261-96-6",
+    "structure": "C<sub>20</sub>H<sub>38</sub>O<sub>2</sub>",
+    "smiles": "O=C(O)CCCCCCC=CCCCCCCCCCCC",
+    "description": "8(Z)-\u200bEicosenoic acid, also known as 8-Eicosenoic acid, (Z)-, (8Z)-8-Eicosenoic acid, 8-cis-Eicosenoic acid is a product in category Monounsaturated FA. Buy online from Larodan Research Grade Lipids",
+    "molecular_weight": "310.52",
+    "url": "https://www.larodan.com/product/8z-eicosenoic-acid/",
+    "img": "https://www.larodan.com/media/structures/76261966.svg",
+    "pdf_msds": "mailto:info@larodan.se?subject=MSDS for 8(Z)-\u200bEicosenoic acid / 10-2008",
+    "synonyms": [
+        "8-Eicosenoic acid",
+        " (Z)-",
+        " (8Z)-8-Eicosenoic acid",
+        " 8-cis-Eicosenoic acid"
+    ],
+    "packaging": {
+        "25 mg": 69.0,
+        "100 mg": 161.0
+    },
+    "image_path": "images\\10-2008.png"
+}
+{
+    "id": "10-2009",
+    "name": "9(Z)-Eicosenoic acid",
+    "CAS": "29204-02-2",
+    "structure": "C<sub>20</sub>H<sub>38</sub>O<sub>2</sub>",
+    "smiles": "O=C(O)CCCCCCCC=CCCCCCCCCCC",
+    "description": "9(Z)-Eicosenoic acid, also known as 9-Eicosenoic acid, (Z)-, (9Z)-9-Eicosenoic acid, Gadoleic acid, cis-9-Eicosenoic acid, Gondoleic acid, (Z)-9-Eicosenoic acid is a product in category Monounsaturated FA. Buy online from Larodan Research Grade Lipids",
+    "molecular_weight": "310.52",
+    "url": "https://www.larodan.com/product/9z-eicosenoic-acid/",
+    "img": "https://www.larodan.com/media/structures/29204022.svg",
+    "pdf_msds": "https://www.larodan.com/media/10-2009_ENG.pdf",
+    "synonyms": [
+        "9-Eicosenoic acid",
+        " (Z)-",
+        " (9Z)-9-Eicosenoic acid",
+        " Gadoleic acid",
+        " cis-9-Eicosenoic acid",
+        " Gondoleic acid",
+        " (Z)-9-Eicosenoic acid"
+    ],
+    "packaging": {
+        "5 mg": 345.0,
+        "25 mg": 1150.0
+    },
+    "image_path": "images\\10-2009.png",
+    "UN number": "Not classified as dangerous goods"
+}
+{
+    "id": "10-2010",
+    "name": "11(E)-Eicosenoic acid",
+    "CAS": "62322-84-3",
+    "structure": "C<sub>20</sub>H<sub>38</sub>O<sub>2</sub>",
+    "smiles": "O=C(O)CCCCCCCCCC=CCCCCCCCC",
+    "description": "11(E)-Eicosenoic acid, also known as 11-Eicosenoic acid, (E)-, (11E)-11-Eicosenoic acid, 11-trans-Eicosenoic acid, trans-11-Eicosenoic acid is a product in category Monounsaturated FA. Buy online from Larodan Research Grade Lipids",
+    "molecular_weight": "310.52",
+    "url": "https://www.larodan.com/product/11e-eicosenoic-acid/",
+    "img": "https://www.larodan.com/media/structures/62322843.svg",
+    "pdf_msds": "https://www.larodan.com/media/10-2010_ENG.pdf",
+    "synonyms": [
+        "11-Eicosenoic acid",
+        " (E)-",
+        " (11E)-11-Eicosenoic acid",
+        " 11-trans-Eicosenoic acid",
+        " trans-11-Eicosenoic acid"
+    ],
+    "packaging": {
+        "25 mg": 58.0,
+        "100 mg": 92.0
+    },
+    "image_path": "images\\10-2010.png",
+    "UN number": "Not classified as dangerous goods"
+}
+{
+    "id": "10-2011",
+    "name": "2(Z)-Eicosenoic acid",
+    "CAS": "93772-82-8",
+    "structure": "C<sub>20</sub>H<sub>38</sub>O<sub>2</sub>",
+    "smiles": "O=C(O)C=CCCCCCCCCCCCCCCCCC",
+    "description": "2(Z)-Eicosenoic acid is a product in category Monounsaturated FA. Buy online from Larodan Research Grade Lipids",
+    "molecular_weight": "310.52",
+    "url": "https://www.larodan.com/product/2z-eicosenoic-acid/",
+    "img": "https://www.larodan.com/media/structures/93772828.svg",
+    "pdf_msds": "https://www.larodan.com/media/10-2011_ENG.pdf",
+    "synonyms": null,
+    "packaging": {
+        "10 mg": 115.0
+    },
+    "image_path": "images\\10-2011.png",
+    "UN number": "Not classified as dangerous goods"
+}
+{
+    "id": "10-2012",
+    "name": "2(E)-Eicosenoic acid",
+    "CAS": "109264-21-3",
+    "structure": "C<sub>20</sub>H<sub>38</sub>O<sub>2</sub>",
+    "smiles": "O=C(O)C=CCCCCCCCCCCCCCCCCC",
+    "description": "2(E)-Eicosenoic acid is a product in category Monounsaturated FA. Buy online from Larodan Research Grade Lipids",
+    "molecular_weight": "310.52",
+    "url": "https://www.larodan.com/product/2e-eicosenoic-acid/",
+    "img": "https://www.larodan.com/media/structures/109264213.svg",
+    "pdf_msds": "https://www.larodan.com/media/10-2012_ENG.pdf",
+    "synonyms": null,
+    "packaging": {
+        "10 mg": 138.0,
+        "50 mg": 554.0
+    },
+    "image_path": "images\\10-2012.png",
+    "UN number": "Not classified as dangerous goods"
+}
+{
+    "id": "10-2014",
+    "name": "14(Z)-Eicosenoic acid",
+    "CAS": "17735-95-4",
+    "structure": "C<sub>20</sub>H<sub>38</sub>O<sub>2</sub>",
+    "smiles": "O=C(O)CCCCCCCCCCCCC=CCCCCC",
+    "description": "14(Z)-Eicosenoic acid, also known as 14-Eicosenoic acid, (Z)-, (14Z)-14-Eicosenoic acid is a product in category Monounsaturated FA. Buy online from Larodan Research Grade Lipids",
+    "molecular_weight": "310.52",
+    "url": "https://www.larodan.com/product/14z-eicosenoic-acid/",
+    "img": "https://www.larodan.com/media/structures/17735954.svg",
+    "pdf_msds": "https://www.larodan.com/media/10-2014_ENG.pdf",
+    "synonyms": [
+        "14-Eicosenoic acid",
+        " (Z)-",
+        " (14Z)-14-Eicosenoic acid"
+    ],
+    "packaging": {
+        "10 mg": 485.0,
+        "50 mg": null
+    },
+    "image_path": "images\\10-2014.png",
+    "UN number": "Not classified as dangerous goods"
+}
+{
+    "id": "10-2015",
+    "name": "5(Z)-\u200bEicosenoic acid",
+    "CAS": "7050-07-9",
+    "structure": "C<sub>20</sub>H<sub>38</sub>O<sub>2</sub>",
+    "smiles": "O=C(O)CCCC=CCCCCCCCCCCCCCC",
+    "description": "5(Z)-\u200bEicosenoic acid, also known as (Z)-5-Eicosenoic acid, 5-Eicosenoic acid, (Z)-, cis-\u03945-Eicosenoic acid, 5-cis-Eicosenoic acid, (5Z)-5-Eicosenoic acid, cis-5-Eicosenoic acid is a product in category Monounsaturated FA. Buy online from Larodan Research Grade Lipids",
+    "molecular_weight": "310.52",
+    "url": "https://www.larodan.com/product/5z-eicosenoic-acid/",
+    "img": "https://www.larodan.com/media/structures/7050079.svg",
+    "pdf_msds": "mailto:info@larodan.se?subject=MSDS for 5(Z)-\u200bEicosenoic acid / 10-2015",
+    "synonyms": [
+        "(Z)-5-Eicosenoic acid",
+        " 5-Eicosenoic acid",
+        " (Z)-",
+        " cis-\u03945-Eicosenoic acid",
+        " 5-cis-Eicosenoic acid",
+        " (5Z)-5-Eicosenoic acid<input class=\"synonyms-expand-checkbox\" id=\"synonyms-expand-checkbox\" type=\"checkbox\"/><label class=\"synonyms-expand-label\" for=\"synonyms-expand-checkbox\"> [...]</label>"
+    ],
+    "packaging": {
+        "25 mg": 81.0
+    },
+    "image_path": "images\\10-2015.png"
+}
+{
+    "id": "10-2053",
+    "name": "13(Z)-Eicosenoic acid",
+    "CAS": "17735-94-3",
+    "structure": "C<sub>20</sub>H<sub>38</sub>O<sub>2</sub>",
+    "smiles": "O=C(O)CCCCCCCCCCCC=CCCCCCC",
+    "description": "13(Z)-Eicosenoic acid, also known as (Z)-13-Eicosenoic acid, (13Z)-13-Eicosenoic acid, (Z)-13-Eicosaenoic acid, Paullinic acid, 13-Eicosenoic acid, (Z)-, cis-13-Eicosenoic acid is a product in category Monounsaturated FA. Buy online from Larodan Research Grade Lipids",
+    "molecular_weight": "310.52",
+    "url": "https://www.larodan.com/product/13z-eicosenoic-acid/",
+    "img": "https://www.larodan.com/media/structures/17735943.svg",
+    "pdf_msds": "mailto:info@larodan.se?subject=MSDS for 13(Z)-Eicosenoic acid / 10-2053",
+    "synonyms": [
+        "(Z)-13-Eicosenoic acid",
+        " (13Z)-13-Eicosenoic acid",
+        " (Z)-13-Eicosaenoic acid",
+        " Paullinic acid",
+        " 13-Eicosenoic acid",
+        " (Z)-",
+        " cis-13-Eicosenoic acid"
+    ],
+    "packaging": {
+        "5 mg": 150.0
+    },
+    "image_path": "images\\10-2053.png"
+}
+{
+    "id": "10-2101",
+    "name": "12(Z)-\u200bHeneicosenoic acid",
+    "CAS": "3515-84-2",
+    "structure": "C<sub>21</sub>H<sub>40</sub>O<sub>2</sub>",
+    "smiles": "O=C(O)CCCCCCCCCCC=CCCCCCCCC",
+    "description": "12(Z)-\u200bHeneicosenoic acid, also known as 12-Heneicosenoic acid, (Z)-, (12Z)-12-Heneicosenoic acid, cis-12-Heneicosenoic acid is a product in category Monounsaturated FA. Buy online from Larodan Research Grade Lipids",
+    "molecular_weight": "324.54",
+    "url": "https://www.larodan.com/product/12z-heneicosenoic-acid/",
+    "img": "https://www.larodan.com/media/structures/3515842.svg",
+    "pdf_msds": "mailto:info@larodan.se?subject=MSDS for 12(Z)-\u200bHeneicosenoic acid / 10-2101",
+    "synonyms": [
+        "12-Heneicosenoic acid",
+        " (Z)-",
+        " (12Z)-12-Heneicosenoic acid",
+        " cis-12-Heneicosenoic acid"
+    ],
+    "packaging": {
+        "25 mg": 69.0,
+        "100 mg": 161.0
+    },
+    "image_path": "images\\10-2101.png"
+}
+{
+    "id": "10-2201",
+    "name": "13(Z)-Docosenoic acid",
+    "CAS": "112-86-7",
+    "structure": "C<sub>22</sub>H<sub>42</sub>O<sub>2</sub>",
+    "smiles": "O=C(O)CCCCCCCCCCCC=CCCCCCCCC",
+    "description": "13(Z)-Docosenoic acid, also known as (13Z)-13-Docosenoic acid, Jaric 22:1, (Z)-13-Docosenoic acid, cis-13-Docosenoic acid, Erucic acid, 13(Z)-Docosenoic acid, 13-Docosenoic acid, (Z)-, \u039413-cis-Docosenoic acid, (Z)-Erucic acid, cis-13-Erucic acid, (13Z)-Docosenoic acid, 13-cis-Docosenoic acid is a product in category Monounsaturated FA. Buy online from Larodan Research Grade Lipids",
+    "molecular_weight": "338.57",
+    "url": "https://www.larodan.com/product/13z-docosenoic-acid/",
+    "img": "https://www.larodan.com/media/structures/112867.svg",
+    "pdf_msds": "https://www.larodan.com/media/10-2201_ENG.pdf",
+    "synonyms": [
+        "(13Z)-13-Docosenoic acid",
+        " Jaric 22:1",
+        " (Z)-13-Docosenoic acid",
+        " cis-13-Docosenoic acid",
+        " Erucic acid<input class=\"synonyms-expand-checkbox\" id=\"synonyms-expand-checkbox\" type=\"checkbox\"/><label class=\"synonyms-expand-label\" for=\"synonyms-expand-checkbox\"> [...]</label>"
+    ],
+    "packaging": {
+        "5 x 100 mg": 121.0,
+        "100 mg": 41.0
+    },
+    "image_path": "images\\10-2201.png",
+    "UN number": "Not classified as dangerous goods"
+}
+{
+    "id": "10-2210",
+    "name": "13(E)-Docosenoic acid",
+    "CAS": "506-33-2",
+    "structure": "C<sub>22</sub>H<sub>42</sub>O<sub>2</sub>",
+    "smiles": "O=C(O)CCCCCCCCCCCC=CCCCCCCCC",
+    "description": "13(E)-Docosenoic acid, also known as NSC 59686, 13-Docosenoic acid, (E)-, (E)-13-Docosenoic acid, (13E)-13-Docosenoic acid, Brassidic acid, trans-13-Docosenoic acid is a product in category Monounsaturated FA. Buy online from Larodan Research Grade Lipids",
+    "molecular_weight": "338.57",
+    "url": "https://www.larodan.com/product/13e-docosenoic-acid/",
+    "img": "https://www.larodan.com/media/structures/506332.svg",
+    "pdf_msds": "https://www.larodan.com/media/10-2210_ENG.pdf",
+    "synonyms": [
+        "NSC 59686",
+        " 13-Docosenoic acid",
+        " (E)-",
+        " (E)-13-Docosenoic acid",
+        " (13E)-13-Docosenoic acid",
+        " Brassidic acid",
+        " trans-13-Docosenoic acid"
+    ],
+    "packaging": {
+        "5 x 100 mg": 173.0,
+        "100 mg": 61.0
+    },
+    "image_path": "images\\10-2210.png",
+    "UN number": "Not classified as dangerous goods"
+}
+{
+    "id": "10-2211",
+    "name": "11(Z)-Docosenoic acid",
+    "CAS": "1002-96-6",
+    "structure": "C<sub>22</sub>H<sub>42</sub>O<sub>2</sub>",
+    "smiles": "O=C(O)CCCCCCCCCC=CCCCCCCCCCC",
+    "description": "11(Z)-Docosenoic acid, also known as Cetoleic acid, (11Z)-11-Docosenoic acid, (Z)-11-Docosenoic acid, 11-Docosenoic acid, (Z)-, cis-Docos-11-enoic acid, 11-Docosenoic acid, cis- is a product in category Monounsaturated FA. Buy online from Larodan Research Grade Lipids",
+    "molecular_weight": "338.57",
+    "url": "https://www.larodan.com/product/11z-docosenoic-acid/",
+    "img": "https://www.larodan.com/media/structures/1002966.svg",
+    "pdf_msds": "https://www.larodan.com/media/10-2211_ENG-Ethanol.pdf",
+    "synonyms": [
+        "Cetoleic acid",
+        " (11Z)-11-Docosenoic acid",
+        " (Z)-11-Docosenoic acid",
+        " 11-Docosenoic acid",
+        " (Z)-",
+        " cis-Docos-11-enoic acid",
+        " 11-Docosenoic acid",
+        " cis-"
+    ],
+    "packaging": {
+        "5 mg": 345.0
+    },
+    "image_path": "images\\10-2211.png",
+    "UN number": "1206"
+}
+{
+    "id": "10-2301",
+    "name": "14(Z)-Tricosenoic acid",
+    "CAS": "105305-00-8",
+    "structure": "C<sub>23</sub>H<sub>44</sub>O<sub>2</sub>",
+    "smiles": "O=C(O)CCCCCCCCCCCCC=CCCCCCCCC",
+    "description": "14(Z)-Tricosenoic acid, also known as 14-Tricosenoic acid, (Z)-, (14Z)-14-Tricosenoic acid, cis-14-Tricosenoic acid, 23:1(\u03c9-9) is a product in category Monounsaturated FA. Buy online from Larodan Research Grade Lipids",
+    "molecular_weight": "352.6",
+    "url": "https://www.larodan.com/product/14z-tricosenoic-acid/",
+    "img": "https://www.larodan.com/media/structures/105305008.svg",
+    "pdf_msds": "mailto:info@larodan.se?subject=MSDS for 14(Z)-Tricosenoic acid / 10-2301",
+    "synonyms": [
+        "14-Tricosenoic acid",
+        " (Z)-",
+        " (14Z)-14-Tricosenoic acid",
+        " cis-14-Tricosenoic acid",
+        " 23:1(\u03c9-9)"
+    ],
+    "packaging": {
+        "100 mg": 184.0
+    },
+    "image_path": "images\\10-2301.png"
+}
+{
+    "id": "10-2401",
+    "name": "15(Z)-Tetracosenoic acid",
+    "CAS": "506-37-6",
+    "structure": "C<sub>24</sub>H<sub>46</sub>O<sub>2</sub>",
+    "smiles": "O=C(O)CCCCCCCCCCCCCC=CCCCCCCCC",
+    "description": "15(Z)-Tetracosenoic acid, also known as cis-15-Tetracosenoic acid, Nervonic acid, (15Z)-Tetracosenoic acid, 15Z-Tetracosenoic acid, 15-Tetracosenoic acid, (Z)-, 15-Tetracosenoic acid, cis-, Selacholeic acid, (15Z)-15-Tetracosenoic acid, (Z)-15-Tetracosenoic acid, Nevonic acid is a product in category Monounsaturated FA. Buy online from Larodan Research Grade Lipids",
+    "molecular_weight": "366.62",
+    "url": "https://www.larodan.com/product/15z-tetracosenoic-acid/",
+    "img": "https://www.larodan.com/media/structures/506376.svg",
+    "pdf_msds": "https://www.larodan.com/media/10-2401_ENG.pdf",
+    "synonyms": [
+        "cis-15-Tetracosenoic acid",
+        " Nervonic acid",
+        " (15Z)-Tetracosenoic acid",
+        " 15Z-Tetracosenoic acid",
+        " 15-Tetracosenoic acid",
+        " (Z)-<input class=\"synonyms-expand-checkbox\" id=\"synonyms-expand-checkbox\" type=\"checkbox\"/><label class=\"synonyms-expand-label\" for=\"synonyms-expand-checkbox\"> [...]</label>"
+    ],
+    "packaging": {
+        "1 g": 169.0,
+        "5 x 100 mg": 190.0,
+        "100 mg": 55.0
+    },
+    "image_path": "images\\10-2401.png",
+    "UN number": "Not classified as dangerous goods"
+}
+{
+    "id": "10-2408",
+    "name": "15(E)-Tetracosenoic acid",
+    "CAS": "115863-91-7",
+    "structure": "C<sub>24</sub>H<sub>46</sub>O<sub>2</sub>",
+    "smiles": "O=C(O)CCCCCCCCCCCCCC=CCCCCCCCC",
+    "description": "15(E)-Tetracosenoic acid, also known as trans-Nervonic acid, 15-Tetracosenoic acid, (E)-, (15E)-15-Tetracosenoic acid, trans-Tetracos-15-enoic acid is a product in category Monounsaturated FA. Buy online from Larodan Research Grade Lipids",
+    "molecular_weight": "366.62",
+    "url": "https://www.larodan.com/product/15e-tetracosenoic-acid/",
+    "img": "https://www.larodan.com/media/structures/115863917.svg",
+    "pdf_msds": "https://www.larodan.com/media/10-2408_ENG.pdf",
+    "synonyms": [
+        "trans-Nervonic acid",
+        " 15-Tetracosenoic acid",
+        " (E)-",
+        " (15E)-15-Tetracosenoic acid",
+        " trans-Tetracos-15-enoic acid"
+    ],
+    "packaging": {
+        "5 mg": 345.0
+    },
+    "image_path": "images\\10-2408.png",
+    "UN number": "Not classified as dangerous goods"
+}
+{
+    "id": "10-2501",
+    "name": "16(Z)-Pentacosenoic acid",
+    "CAS": "140163-39-9",
+    "structure": "C<sub>25</sub>H<sub>48</sub>O<sub>2</sub>",
+    "smiles": "O=C(O)CCCCCCCCCCCCCCC=CCCCCCCCC",
+    "description": "16(Z)-Pentacosenoic acid, also known as 16-Pentacosenoic acid, (Z)-, (16Z)-16-Pentacosenoic acid, (Z)-16-Pentacosenoic acid, C25:1 \u03c9-9 is a product in category Monounsaturated FA. Buy online from Larodan Research Grade Lipids",
+    "molecular_weight": "380.65",
+    "url": "https://www.larodan.com/product/16z-pentacosenoic-acid/",
+    "img": "https://www.larodan.com/media/structures/140163399.svg",
+    "pdf_msds": "mailto:info@larodan.se?subject=MSDS for 16(Z)-Pentacosenoic acid / 10-2501",
+    "synonyms": [
+        "16-Pentacosenoic acid",
+        " (Z)-",
+        " (16Z)-16-Pentacosenoic acid",
+        " (Z)-16-Pentacosenoic acid",
+        " C25:1 \u03c9-9"
+    ],
+    "packaging": {
+        "5 mg": 345.0
+    },
+    "image_path": "images\\10-2501.png"
+}
+{
+    "id": "10-2601",
+    "name": "17(Z)-Hexacosenoic acid",
+    "CAS": "66274-43-9",
+    "structure": "C<sub>26</sub>H<sub>50</sub>O<sub>2</sub>",
+    "smiles": "O=C(O)CCCCCCCCCCCCCCCC=CCCCCCCCC",
+    "description": "17(Z)-Hexacosenoic acid, also known as 17-Hexacosenoic acid, (Z)-, (Z)-17-Hexacosenoic acid, cis-17-Hexacosenoic acid, (17Z)-17-Hexacosenoic acid, Ximenic acid is a product in category Monounsaturated FA. Buy online from Larodan Research Grade Lipids",
+    "molecular_weight": "394.67",
+    "url": "https://www.larodan.com/product/17z-hexacosenoic-acid/",
+    "img": "https://www.larodan.com/media/structures/66274439.svg",
+    "pdf_msds": "https://www.larodan.com/media/10-2601_ENG.pdf",
+    "synonyms": [
+        "17-Hexacosenoic acid",
+        " (Z)-",
+        " (Z)-17-Hexacosenoic acid",
+        " cis-17-Hexacosenoic acid",
+        " (17Z)-17-Hexacosenoic acid",
+        " Ximenic acid"
+    ],
+    "packaging": {
+        "5 mg": 345.0,
+        "25 mg": 1150.0
+    },
+    "image_path": "images\\10-2601.png",
+    "UN number": "Not classified as dangerous goods"
+}
+{
+    "id": "20-1910",
+    "name": "Methyl 10(E)-nonadecenoate",
+    "CAS": "84675-68-3",
+    "structure": "C<sub>20</sub>H<sub>38</sub>O<sub>2</sub>",
+    "smiles": "O=C(OC)CCCCCCCCC=CCCCCCCCC",
+    "description": "Methyl 10(E)-nonadecenoate, also known as Methyl trans-10-nonadecenoate is a product in category Monounsaturated FA. Buy online from Larodan Research Grade Lipids",
+    "molecular_weight": "310.52",
+    "url": "https://www.larodan.com/product/methyl-10e-nonadecenoate/",
+    "img": "https://www.larodan.com/media/structures/20-1910.png",
+    "pdf_msds": "mailto:info@larodan.se?subject=MSDS for Methyl 10(E)-nonadecenoate / 20-1910",
+    "synonyms": [
+        "Methyl trans-10-nonadecenoate"
+    ],
+    "packaging": {
+        "25 mg": null
+    },
+    "image_path": "images\\20-1910.png"
+}

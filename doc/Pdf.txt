@@ -1,0 +1,328 @@
+SAFETY DATA SHEET
+In accordance with 453/2010 and 1272/2008
+(All references to EU regulations and directives are abbreviated into only the numeric term)
+Issued 2015-06-04
+SECTION 1: IDENTIFICATION OF THE SUBSTANCE/MIXTURE
+AND OF THE COMPANY/UNDERTAKING
+1.1. Product identifier
+Trade name
+10(Z)-Pentadecenoic Acid
+Identified uses
+
+
+
+  Laboratory chemicals
+1.3. Details of the supplier of the safety data sheet
+Company
+Larodan AB
+Karolinska Institutet Science Park
+Retzius väg 8
+SE-171 65  SOLNA
+Sweden
+Telephone
++46 20 15 22 00
+E-mail
+info@larodan.com
+Website
+www.larodan.com
+1.4. Emergency telephone number
+In case of emergency contact toxicological information, emergency tel 112 (within Europe) or 1-800-222-1222 (for USA). For other
+countries, use the built-in emergency number in your cell phone
+For non-emergency poison information, see http://www.who.int/gho/phe/chemical_safety/poisons_centres/en/
+SECTION 2: HAZARDS IDENTIFICATION
+2.1. Classification of the substance or mixture
+Classification in accordance with 1272/2008
+Upon assessment, this substance is not classified as hazardous according to 1272/2008.
+2.2. Label elements
+Label information in accordance with 1272/2008
+Hazard pictograms
+Not applicable
+Signal words
+Not applicable
+Hazard statements
+Not applicable
+2.3. Other hazards
+Not relevant.
+SECTION 3: COMPOSITION/INFORMATION ON INGREDIENTS
+This product is composed of a pure or almost pure substance.
+3.1. Substances
+Synonyms
+cis-10-Pentadecenoic acid
+Chemical formula
+   C15H28O2
+Molecular weight
+240.38
+Constituent
+Purity
+10(Z)-PENTADECENOIC ACID
+CAS No
+
+       84743-29-3
+>99%
+Occurrence of any impurity, stabilising additive, or individual ingredients other than the main ingredient is indicated by the chemical
+name and the purity level.
+Explanations to the classification and labelling of the ingredients are given in Section 16e. Official abbreviations are printed in normal
+Safety data sheet for 10(Z)-Pentadecenoic Acid, Edition 2015-06-04
+Page 1 of 6
+1.2. Relevant identified uses of the substance or mixture and uses advised against
+font. Text in italics are specifications and/or complement used in the calculation of the hazards of this mixture, see Section 16b
+SECTION 4: FIRST AID MEASURES
+4.1. Description of first aid measures
+Generally
+In case of concern, or if symptoms persist, call doctor/physician.
+Upon breathing in
+Inhalation of fumes from heated product: let the injured rest at a warm place with fresh air. Contact the doctor if symptoms
+persist.
+Upon contact with the eyes
+As a precaution, rinse the eye thoroughly with water; If symptoms occur, call a doctor/physician.
+Upon skin contact
+Normal washing of the skin is considered sufficient; If nevertheless symptoms do occur, contact a physician.
+Remove contaminated clothes.
+Upon ingestion
+Flush nose, mouth and throat with water.
+Upon ingestion of larger amounts, consult a doctor/physician.
+4.2. Most important symptoms and effects, both acute and delayed
+Ingestion of large amounts of the product may cause nausea and vomiting.
+4.3. Indication of any immediate medical attention and special treatment needed
+Symptomatic treatment.
+SECTION 5: FIRE-FIGHTING MEASURES
+5.1. Extinguishing media
+Recommended extinguishing agents
+Extinguish with materials intended for the surrounding fire.
+Unsuitable extinguishing agents
+Among common extinguishing agents there are none that are overtly unsuitable.
+5.2. Special hazards arising from the substance or mixture
+Produces fumes containing harmful gases (carbon monoxide and carbon dioxide) when burning.
+The product is not hazardous in the flammable sense.
+5.3. Advice for fire-fighters
+In case of fire use a respirator mask.
+Wear full protective clothing.
+Protective measures should be taken regarding other material at the site of the fire.
+SECTION 6: ACCIDENTAL RELEASE MEASURES
+6.1. Personal precautions, protective equipment and emergency procedures
+Use recommended safety equipment, see section 8.
+Note that there is a risk of slipping if product is leaking/spilling.
+6.2. Environmental precautions
+At amounts considered in this case, the product may be released into the natural environment without serious environmental
+consequences. Large emissions should however be reported to the emergency services and the Environment Agency.
+6.3. Methods and material for containment and cleaning up
+Small spills can be wiped up with a cloth or similar. Then flush the spill site with water. Larger spills should first be covered with
+sand or earth and then be collected. Collected material should be disposed according to Section 13.
+6.4. Reference to other sections
+See section 8 and 13 for personal protection equipment and disposal considerations
+Safety data sheet for 10(Z)-Pentadecenoic Acid. Edition 2015-06-04
+Page 2 of 6
+SECTION 7: HANDLING AND STORAGE
+7.1. Precautions for safe handling
+Read and follow the manufacturer's instructions.
+Avoid spillage, inhalation and contact with eyes and skin.
+Keep well closed.
+The usual precautions for handling chemicals should be observed.
+7.2. Conditions for safe storage, including any incompatibilities
+Store in dry and cool area.
+Store in a ventilated space.
+7.3. Specific end uses
+See identified uses in Section 1.2.
+SECTION 8: EXPOSURE CONTROLS/PERSONAL
+PROTECTION
+8.1. Control parameters
+8.1.1. National limit values, United Kingdom
+All ingredients (cf. Section 3) lack occupational exposure limit values.
+8.2. Exposure controls
+In terms of minimizing risks, no special attention is needed for this product besides the general obligations that follow EU directive
+89/391 and national occupational legislation.
+Eye protection is not necessary during normal use.
+Protective gloves are normally not needed due to the properties of this product, but may be necessary for other reasons, e.g.
+mechanical risks, temperature conditions or microbiological risks.
+Special measures for protection of the skin are necessary only in rare working situations. In case of doubt, consult occupational
+expertise. Show this safety data sheet.
+Protective breathing equipment should only be required in extreme work-situations. Consult the manufacturer if this is the case.
+For limitation of environmental exposure, see Section 12.
+SECTION 9: PHYSICAL AND CHEMICAL PROPERTIES
+9.1. Information on basic physical and chemical properties
+a) Appearance
+Form: solid
+b) Odour
+c) Odour threshold
+d) pH
+e) Melting point/freezing point
+f) Initial boiling point and boiling range
+g) Flash point
+h) Evaporation rate
+i) Flammability (solid, gas)
+Colour: white
+Not applicable
+Not applicable
+Not applicable
+Not applicable
+321.9±11.0 °C at atmospheric pressure (101325 Pa) (predicted)
+Not applicable
+Not applicable
+Not applicable
+j) Upper/lower flammability or explosive limits Not applicable
+k) Vapour pressure
+l) Vapour density
+m) Relative density
+n) Solubility
+Not applicable
+Not applicable
+0.909±0.06 kg/L (predicted)
+Solubility in water: Insoluble
+o) Partition coefficient: n-octanol/water
+Not applicable
+p) Auto-ignition temperature
+Not applicable
+q) Decomposition temperature
+Not applicable
+r) Viscosity
+Not applicable
+s) Explosive properties
+Not applicable
+t) Oxidising properties
+Not applicable
+Safety data sheet for 10(Z)-Pentadecenoic Acid. Edition 2015-06-04
+Page 3 of 6
+9.2. Other information
+No data available
+SECTION 10: STABILITY AND REACTIVITY
+10.1. Reactivity
+The product contains no substances which can lead to hazardous reactions at normal use.
+10.2. Chemical stability
+The product is stable at normal storage and handling conditions.
+10.3. Possibility of hazardous reactions
+Not indicated
+10.4. Conditions to avoid
+Not indicated
+10.5. Incompatible materials
+Avoid contact with oxidizers.
+10.6. Hazardous decomposition products
+Carbon monoxide (CO), carbon dioxide (CO2) and harmful and irritating substances.
+SECTION 11: TOXICOLOGICAL INFORMATION
+11.1. Information on toxicological effects
+General or unspecific toxicity
+The product is not classified as toxic.
+Acute effects
+Not classified as an acutely toxic substance.
+Harmfulness
+The product is not classified as harmful to health.
+Repeated dose toxicity
+No chronic effects have been reported for this product.
+Carcinogenicity
+No carcinogenic effects have been reported for this product.
+CMR effects
+No mutagenic or reproductive toxic effects have been reported for this substance.
+Sensibilisation
+Not sensitising.
+Corrosive and irritating effects
+The product is not corrosive. Minor irritation may arise for persons who are prone/susceptible.
+Synergism and antagonism
+No information is available.
+Effect on judgement and other psychological effects
+Does not affect the judgement.
+Relevant toxicological properties
+10(Z)-PENTADECENOIC ACID No data
+SECTION 12: ECOLOGICAL INFORMATION
+12.1. Toxicity
+10(Z)-PENTADECENOIC ACID
+No ecological damage is known or expected in the event of normal use.
+12.2. Persistence and degradability
+The components of the product degrades in the natural environment.
+Not applicable
+12.4. Mobility in soil
+The product is not soluble in water and will spread on aquatic surfaces.
+Safety data sheet for 10(Z)-Pentadecenoic Acid. Edition 2015-06-04
+Page 4 of 6
+12.5. Results of PBT and vPvB assessment
+No chemical safety report has been executed.
+12.6. Other adverse effects
+Not indicated
+SECTION 13: DISPOSAL CONSIDERATIONS
+13.1. Waste treatment methods
+Waste handling for the product
+The product is not classified as hazardous waste.
+Also take local regulations for dealing with waste into account.
+Avoid discharge into sewers.
+Recycling of the product
+This product is not usually recycled.
+Send to landfill.
+Transportation of waste
+Waste class J(0) - Does not have adverse effects on health or the environment.
+SECTION 14: TRANSPORT INFORMATION
+This product is only supposed to be transported by road or railway and just the transport regulations ADR/RID thus apply. If other means
+of transport are to be used, contact the publisher of this safety data sheet.
+14.1. UN number
+Not classified as dangerous goods
+14.2. UN proper shipping name
+Not applicable
+14.3. Transport hazard class(es)
+Not applicable
+14.4. Packing group
+Not applicable
+14.5. Environmental hazards
+Not applicable
+14.6. Special precautions for user
+Not applicable
+14.7. Transport in bulk according to Annex II of MARPOL73/78 and the IBC Code
+Not applicable
+SECTION 15: REGULATORY INFORMATION
+15.1. Safety, health and environmental regulations/legislation specific for the substance or mixture
+Not applicable.
+15.2. Chemical safety assessment
+Assessment and chemical safety report in accordance with 1907/2006 Annex I has not yet been performed.
+SECTION 16: OTHER INFORMATION
+16a. Indication of where changes have been made to the previous version of the safety data sheet
+Revisions of this document
+This is the first version.
+16b. Legend to abbreviations and acronyms used in the safety data sheet
+Full texts for Hazard Class and Category Code mentioned in section 3
+No tox haz
+Not classified as toxic
+No phys haz
+Non-assigned physical hazard
+No environmental hazard
+Not classified as being environmentally hazardous
+Explanations of the abbreviations in Section 14
+ADR European Agreement concerning the International Transport of Dangerous Goods by Road
+RID
+Regulations concerning the International Transport of Dangerous Goods by Rail
+Safety data sheet for 10(Z)-Pentadecenoic Acid. Edition 2015-06-04
+Page 5 of 6
+16c. Key literature references and sources for data
+Sources for data
+Primary data for the calculation of the hazards has preferentially been taken from the official European classification list,
+1272/2008 Annex I , as updated to 2015-06-05.
+Where such data was lacking, on the second hand the documentation on which this official classification is based was used, e.g.
+IUCLID (International Uniform Chemical Information Database). On the third hand, information was used from reputable
+international chemical suppliers, and on the fourth hand from other available information, e.g. safety data sheets from other
+suppliers or information from non-profit associations, whereby the reliability of the source was judged by an expert. If, in spite of
+this, reliable information was not found, the hazards were judged by expert opinions based on the known properties of similar
+substances, and according to the principles in 1907/2006 and 1272/2008.
+Full texts for Regulations mentioned in this Safety Data Sheet
+453/2010
+COMMISSION REGULATION (EU) No 453/2010 of 20 May 2010 amending Regulation (EC) No 1907/2006 of the
+European Parliament and of the Council on the Registration, Evaluation, Authorisation and Restriction of Chemicals
+(REACH)
+1272/2008 REGULATION (EC) No 1272/2008 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 16
+December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing
+Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006
+89/391
+COUNCIL DIRECTIVE (89/391/EEC of 12 June 1989 on the introduction of measures to encourage improvements
+in the safety and health of workers at work
+1907/2006 REGULATION (EC) No 1907/2006 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 18
+December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH),
+establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation
+(EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and
+Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC Annex I
+16d. Methods of evaluating information referred to in 1272/2008 Article 9 which was used for the purpose of
+classification
+The calculation of the hazards of this mixture has been performed as an evaluation by applying a weight of evidence determination
+using expert judgement in accordance with 1272/2008 Annex I, weighing all available information having a bearing on the
+determination of the hazards of the mixture, and in accordance with 1907/2006 Annex XI.
+16e. List of relevant hazard statements and/or precautionary statements
+16f. Advice on any training appropriate for workers to ensure protection of human health and the environment
+Warning for misuse
+This product is not expected to cause severe harm to humans or the environment. However the manufacturer, the distributor or the
+supplier cannot be responsible for unusual or criminal use of the product.
+Other relevant information
+Safety data sheet for 10(Z)-Pentadecenoic Acid. Edition 2015-06-04
+Page 6 of 6
